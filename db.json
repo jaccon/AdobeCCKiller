@@ -1,0 +1,68 @@
+{
+    "paths" : [
+        {
+            "path" : "/Applications/Adobe*",
+            "type" : "file"
+        },
+        {
+            "path" : "/Applications/Utilities/Adobe*",
+            "type" : "file"
+        },
+        {
+            "path" : "/Library/Application Support/Adobe* ",
+            "type" : "file"
+        },
+        {
+            "path" : "/Library/Application Support/regid.1986-12.com.adobe",
+            "type" : "file"
+        },
+        {
+            "path" : "/Library/LaunchAgents/com.adobe.AAM.Updater-1.0.plist",
+            "type" : "pid"
+        },
+        {
+            "path" : "com.adobe.ARMDCHelper*",
+            "type" : "pid"
+        },
+        {
+            "path" : "/Library/LaunchAgents/com.adobe.AAM.Updater-1.0.plist",
+            "type" : "file"
+        },
+        {
+            "path" : "/Library/LaunchAgents/com.adobe.ARMDCHelper*",
+            "type" : "file"
+        },
+        {
+            "path" : "/Library/Logs/Adobe*",
+            "type" : "file"
+        },
+        {
+            "path" : "/Library/Logs/CreativeCloud*",
+            "type" : "file"
+        },
+        {
+            "path" : "/Library/Preferences/com.adobe*",
+            "type" : "file"
+        },
+        {
+            "path" : "/Library/Preferences/com.Adobe*",
+            "type" : "file"
+        },
+        {
+            "path" : "/Library/ScriptingAdditions/Adobe*",
+            "type" : "file"
+        },
+        {
+            "path" : "/private/var/root/Library/Application Support/Adobe*",
+            "type" : "file"
+        },
+        {
+            "path" : "/private/var/root/Library/Application Support/Adobe*",
+            "type" : "file"
+        },
+        {
+            "path" : "/Users/Shared/Adobe*",
+            "type" : "file"
+        }
+    ]
+}
